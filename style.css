@@ -116,6 +116,7 @@ header{
 .img3{
   width: 500px;
   float: right;
+  padding:1cm;
 }
 .active{
   color: black;
@@ -123,4 +124,18 @@ header{
 
 p{
   color: white;
+}
+
+.img4{
+  width: 350px;
+  float: right;
+  padding: 1cm;
+}
+
+.milan{
+  width: 200px;
+}
+
+.tekst1{
+  font-size: 45px;
 }
